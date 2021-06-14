@@ -6,7 +6,7 @@ const express = require('express');
 const app = express()
 
 //going to define "root api endpoint" which will return hello world when we hit the api endpoint
-app.get('/', (req,res) => res.send('hello world skg'));
+app.get('/', (req,res) => res.send('hello world skg! chicken tandoori <br> I am great'));
 
 
 //to start the server
