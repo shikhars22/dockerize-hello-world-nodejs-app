@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-docker",
+  "version": "1.0.0",
+  "description": "using https://www.youtube.com/watch?v=CsWoMpK3EtE as tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikhars22/dockerize-hello-world-nodejs-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikhars22/dockerize-hello-world-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/shikhars22/dockerize-hello-world-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
